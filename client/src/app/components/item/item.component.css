@@ -1,0 +1,62 @@
+
+.app-contacts{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .app-card {
+    height: fit-content;
+    width: 800px;
+  }
+  .mat-card {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .example-form{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+   
+  }
+
+  .example-full-width{
+      width: 100%;
+  }
+
+  .example-chip-list {
+    width: 100%;
+  }
+
+  .img-container{
+   width: 250px;
+   height: 250px;
+  }
+  img {
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 50%;
+  }
+
+  .wrapper-buttons {
+    width: 100%;
+    display: flex;
+    height: 40px;
+    padding-top: 50px
+  }
+  .submitButton{
+    margin-left: 5px;
+  }
+
+  .mat-form-field {
+    overflow: hidden;
+  }
+ 
+  
